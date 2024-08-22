@@ -93,4 +93,4 @@ teker teker kodu açıklamayıp şunu söyleyeceğim, PivotTo kullanarak humanoi
 
 https://github.com/user-attachments/assets/01408c73-7f44-4dbc-b4ed-23858b2859ef
 
-## şimdilik ara vereceğim, bunu geliştirdiğimde commit atacağım.
+# Daha çok nesne eklemek.
